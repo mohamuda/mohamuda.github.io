@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.0ecfefa4.css",
-    "main.js": "/static/js/main.8fe3831c.js",
+    "main.js": "/static/js/main.3115fd9e.js",
     "static/js/787.8dcb027e.chunk.js": "/static/js/787.8dcb027e.chunk.js",
     "static/media/Reactimg.png": "/static/media/Reactimg.a544fd8cf64d82898e91.png",
-    "static/media/Abdullah Mohamud RESUME.pdf": "/static/media/Abdullah Mohamud RESUME.d5b31c5f7fd550237158.pdf",
+    "static/media/Abdullah Mohamud RESUME.pdf": "/static/media/Abdullah Mohamud RESUME.4b97c342d82ba1690ebb.pdf",
     "static/media/Typescript_logo_2020.svg.png": "/static/media/Typescript_logo_2020.svg.17936c69824e11a996c4.png",
     "static/media/LOGO-AMWHITE.png": "/static/media/LOGO-AMWHITE.43e91f2f33e6324425be.png",
     "static/media/CSS.png": "/static/media/CSS.e41963e0c0f86c91a3fc.png",
@@ -12,11 +12,11 @@
     "static/media/javascript.png": "/static/media/javascript.93f968ea70ad7a838b15.png",
     "index.html": "/index.html",
     "main.0ecfefa4.css.map": "/static/css/main.0ecfefa4.css.map",
-    "main.8fe3831c.js.map": "/static/js/main.8fe3831c.js.map",
+    "main.3115fd9e.js.map": "/static/js/main.3115fd9e.js.map",
     "787.8dcb027e.chunk.js.map": "/static/js/787.8dcb027e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ecfefa4.css",
-    "static/js/main.8fe3831c.js"
+    "static/js/main.3115fd9e.js"
   ]
 }
