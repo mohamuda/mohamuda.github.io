@@ -7,7 +7,7 @@ export const portfolioProjects = [
       "The Breaking bad Website is one of my first projects created when learning front-end development.  This project has been developed using React JS. This website is fanmade and intended to showcase what I have learned and to strengthen and test my knowledge in using and fetching Apis while also using JS dynamically to integrate a search and filter capabilities The project's goal was to create a fan-made Wikipedia based on the TV series breaking bad.",
     image: "https://i.postimg.cc/rpJ6fhGq/breakingbaddisplay.png",
     github: "https://github.com/mohamuda/breaking-bad--app",
-    url: "https://breaking-bad--app.herokuapp.com/",
+    url: "https://breaking-bad-app-production.up.railway.app/",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export const portfolioProjects = [
       "Netflix clone is a website that utilizes The Movie DB API to gather and display movies, using the integration of event listeners to give a realistic horizontal scroll with onclick option. Features of the website include the rendering of information and titles using JS,  horizontal scrolling for a vast selection of movies, a dynamic home page background that changes every time a user refreshes, a skeleton loading state, and responsive compatibility.",
     image: "https://i.postimg.cc/jdZZ3Gmg/netflix-clone-Folio1.png",
     github: "https://github.com/mohamuda/netflix-clone",
-    url: "https://netflix-clone--app.herokuapp.com/",
+    url: "https://netflix-clone-production.up.railway.app/",
   },
   {
     id: 4,
